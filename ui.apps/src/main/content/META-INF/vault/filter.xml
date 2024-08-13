@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/MicroSite/clientlibs"/>
+    <filter root="/apps/MicroSite/components"/>
+    <filter root="/apps/MicroSite/i18n"/>
+</workspaceFilter>

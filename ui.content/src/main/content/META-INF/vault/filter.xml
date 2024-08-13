@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/MicroSite" mode="merge"/>
+    <filter root="/content/MicroSite" mode="merge"/>
+    <filter root="/content/dam/MicroSite/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/MicroSite" mode="merge"/>
+</workspaceFilter>

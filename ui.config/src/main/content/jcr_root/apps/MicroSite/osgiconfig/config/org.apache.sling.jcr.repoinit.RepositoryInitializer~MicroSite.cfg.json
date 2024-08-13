@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/MicroSite",
+        "create path (nt:unstructured) /content/dam/MicroSite/jcr:content",
+        "set properties on /content/dam/MicroSite/jcr:content\n  set cq:conf{String} to /conf/MicroSite\n  set jcr:title{String} to \"HDFC Life MicroSite Project\"\nend"
+    ]
+}
